@@ -7,6 +7,5 @@ let yourPronouns : String = "He/Him";
 const yourMajor : String = "Computer Science";
 let classification : String = "junior";
 let oneExcite : String = "Meeting new people";
-let anyConcerns : String = "none";
+let anyConcerns : String = "None";
 let funFact : String = "I've been to Iceland";
-
